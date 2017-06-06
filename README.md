@@ -10,6 +10,7 @@ Implementation of Tower Of Hanoi and Demonstration code
 
 Sample Output;
 **************
+```
 |: 5 4 3 2 1 
 |: 
 |: 
@@ -172,3 +173,4 @@ Count: 31
 |: 
 |: 
 |: 5 4 3 2 1 
+```
